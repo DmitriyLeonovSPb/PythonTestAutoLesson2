@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+wait: 5
+login: Oleggov666
+passwd: 256ec8af00
+title: THE NEW POST CREATED BY SELENIUM
+description: OMG! SELENIUM HERE!
+content: THIS IS CONTENT POSTET BY SELENIUM!
